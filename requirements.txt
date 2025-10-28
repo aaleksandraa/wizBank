@@ -1,0 +1,9 @@
+customtkinter==5.2.2
+Pillow==10.4.0
+cryptography==43.0.3
+PyMuPDF==1.24.10
+python-dateutil==2.9.0.post0
+rich==13.8.1
+
+# PDF Generation & Printing (OPCIONO - za izvještaje)
+reportlab>=4.0.0
